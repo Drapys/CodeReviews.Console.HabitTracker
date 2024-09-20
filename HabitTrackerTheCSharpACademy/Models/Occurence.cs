@@ -12,6 +12,4 @@ public partial class Occurence
     public int Occurences { get; set; }
 
     public int Habitid { get; set; }
-
-    public string Unit { get; set; } = null!;
 }
